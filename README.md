@@ -8,7 +8,7 @@ A slightly modified digital version of the actual item is also in this repo. It 
 - [View as webpage][page] (takes a few seconds to load).
 
 ## How it was Made
-I tried a number of different tools before coming up with a workflow that kind of worked for generating this item. Tools like LaTeX, Jekyll's syntax highlighting, and [PrinceXML](http://www.princexml.com), couldn't handle how awesome this project was, either and hung or refused to work at all.
+I tried a number of different tools before coming up with a workflow that kind of worked for generating this item. Tools like LaTeX, Jekyll's syntax highlighting, and [PrinceXML](http://www.princexml.com), couldn't handle how awesome this project was, either hanging or refusing to work at all.
 
 1. In a clean Chrome browser session, I collected the complete page load of the auction page using Fiddler. This was exported as a fiddler archive.
 2. The archive was processed with `process.py` (some terrible, terrible code BTW) to extract all request data and transform it into HTML content.
