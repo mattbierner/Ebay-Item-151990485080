@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:08.433
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 ?bits
+Key Exchange: RsaKeyX 2048bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.adnxs.com, O="AppNexus, Inc.", L=New York, S=New York, C=US
+
+[Issuer]
+  CN=GeoTrust SSL CA - G3, O=GeoTrust Inc., C=US
+
+[Serial Number]
+  69921262ED09049CC8480B1D2AD8683E
+
+[Not Before]
+  12/17/2014 4:00:00 PM
+
+[Not After]
+  4/10/2016 4:59:59 PM
+
+[Thumbprint]
+  4CF8AEB8CE2AF6F0B67F36B22B517071E7D1E5E4
+
+[SubjectAltNames]
+*.adnxs.com, adnxs.com

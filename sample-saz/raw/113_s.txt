@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: image/gif
+Content-Length: 0
+Cache-Control: no-cache
+Location: https://ads.ebay.com/mapid?id=C|216|bacc56d6-9426-4700-a26a-355ee32fef83
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Server: mt2/version: 2.16.1.rc4 pao-pixel-x5 pid 0x433e 17214
+Expires: Wed, 02 Mar 2016 07:20:07 GMT
+Date: Wed, 02 Mar 2016 07:20:08 GMT
+Connection: keep-alive
+

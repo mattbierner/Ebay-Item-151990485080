@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+P3P: policyref="http://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Location: http://cm.g.doubleclick.net/pixel?google_nid=mediamath&google_cm=&google_hm=usxW1pQmRwCiajVe4y_vgw&google_tc=
+Date: Wed, 02 Mar 2016 07:20:07 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Server: HTTP server (unknown)
+Content-Length: 318
+X-XSS-Protection: 1; mode=block
+Set-Cookie: test_cookie=CheckForPermission; expires=Wed, 02-Mar-2016 07:35:07 GMT; path=/; domain=.doubleclick.net
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://cm.g.doubleclick.net/pixel?google_nid=mediamath&amp;google_cm=&amp;google_hm=usxW1pQmRwCiajVe4y_vgw&amp;google_tc=">here</A>.
+</BODY></HTML>

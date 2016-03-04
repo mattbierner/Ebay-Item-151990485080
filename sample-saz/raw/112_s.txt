@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:08.602
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.analytics.yahoo.com, OU=Information Technology, O=Yahoo Inc., L=Sunnyvale, S=California, C=US
+
+[Issuer]
+  CN=Symantec Class 3 Secure Server CA - G4, OU=Symantec Trust Network, O=Symantec Corporation, C=US
+
+[Serial Number]
+  01FB4CE9B56D44D0415CE0D0F7E09B2E
+
+[Not Before]
+  8/10/2015 5:00:00 PM
+
+[Not After]
+  8/10/2016 4:59:59 PM
+
+[Thumbprint]
+  8FCC346DEB5FEF7915D0F969BB930FEEE6672D4B
+
+[SubjectAltNames]
+*.analytics.yahoo.com

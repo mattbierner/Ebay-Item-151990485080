@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:08.470
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.quantserve.com, O=Quantcast Corporation, L=San Francisco, S=California, C=US
+
+[Issuer]
+  CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+
+[Serial Number]
+  0D9C0A15A8E1F3E29656EAFD692AE3E1
+
+[Not Before]
+  8/4/2015 5:00:00 PM
+
+[Not After]
+  11/2/2018 5:00:00 AM
+
+[Thumbprint]
+  C5F37AD57F019A62AF336D92A5F5558D46A35EEE
+
+[SubjectAltNames]
+*.quantserve.com, quantserve.com, *.quantcount.com, quantcount.com

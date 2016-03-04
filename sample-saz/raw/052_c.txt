@@ -1,0 +1,9 @@
+GET http://p.ebaystatic.com/aw/social/spr_share_widget_DS3_vk2-desktop2b.png HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: p.ebaystatic.com
+Connection: Keep-Alive
+

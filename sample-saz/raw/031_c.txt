@@ -1,0 +1,10 @@
+GET http://rover.ebay.com/roversync/?site=0&stg=1&mpt=1456903204584 HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: rover.ebay.com
+Connection: Keep-Alive
+Cookie: ebay=%5Esbf%3D%23%5E; dp1=bu1p/QEBfX0BAX19AQA**58b7c7a5^bl/US5a98fb25^; s=CgAD4ACBW1+WlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODS7dydT; nonsession=CgAAIABxW/iElMTQ1NjkwMzIwNHgxNTE5OTA0ODUwODB4MHgyTgDLAAFW1pstMQDKACBgPJWlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODTReR/L
+

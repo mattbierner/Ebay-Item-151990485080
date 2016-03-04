@@ -1,0 +1,14 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: image/gif
+Content-Length: 0
+Location: http://cm.g.doubleclick.net/pixel?google_nid=mediamath&google_cm&google_hm=usxW1pQmRwCiajVe4y_vgw
+Server: mt2/version: 2.16.1.rc4 pao-pixel-x14 pid 0x43f3 17395
+Expires: Wed, 02 Mar 2016 07:20:07 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 02 Mar 2016 07:20:07 GMT
+Connection: keep-alive
+Set-Cookie: HRL8=CT-USR; expires=Wed, 30-Mar-2016 07:20:07 GMT; path=/; domain=.mathtag.com
+Set-Cookie: mt_mop=4:1456298427; domain=.mathtag.com; path=/; expires=Fri, 01-Apr-2016 07:20:07 GMT
+P3P: CP="NON DSP ADM DEV PSD OUR IND STP PHY PRE NAV UNI"
+

@@ -1,0 +1,11 @@
+HTTP/1.1 307 Temporary Redirect
+Set-Cookie: c=1; Path=/
+Location: /tap.php?cookie_redirect=1&v=4222&nid=1512&put=bacc56d6-9426-4700-a26a-355ee32fef83&expires=28
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: 0
+Content-Length: 0
+Date: Wed, 02 Mar 2016 07:20:11 GMT
+Server: Rubicon Project
+

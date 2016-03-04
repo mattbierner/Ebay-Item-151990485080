@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="123" BitFlags="2100">
+  <SessionTimers ClientConnected="2016-03-01T23:20:09.1300845-08:00" ClientBeginRequest="2016-03-01T23:20:09.1320855-08:00" GotRequestHeaders="2016-03-01T23:20:09.1320855-08:00" ClientDoneRequest="2016-03-01T23:20:09.1325864-08:00" GatewayTime="0" DNSTime="0" TCPConnectTime="14" HTTPSHandshakeTime="23" ServerConnected="2016-03-01T23:20:09.1475402-08:00" FiddlerBeginRequest="2016-03-01T23:20:09.1475402-08:00" ServerGotRequest="2016-03-01T23:20:09.1475402-08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2016-03-01T23:20:09.1475402-08:00" ClientDoneResponse="2016-03-01T23:20:09.1475402-08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-snihostname" V="googleads.g.doubleclick.net" />
+    <SessionFlag N="x-egressport" V="32835" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="32832" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="127.0.0.1" />
+    <SessionFlag N="https-client-sessionid" V="4A 19 00 00 CD FA FC C0 4A 64 F3 05 DE C8 AA BE 0C 08 D1 86 EE 2B D7 52 49 47 AA 98 78 62 A7 56" />
+    <SessionFlag N="x-hostip" V="216.58.193.66" />
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-processinfo" V="iexplore:9652" />
+    <SessionFlag N="https-server-cipher" V="Aes128 128bits" />
+  </SessionFlags>
+</Session>

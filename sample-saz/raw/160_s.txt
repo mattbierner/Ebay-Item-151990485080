@@ -1,0 +1,14 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: image/gif
+Content-Length: 0
+Location: https://us-u.openx.net/w/1.0/sd?id=536872786&val=bacc56d6-9426-4700-a26a-355ee32fef83
+Server: mt2/version: 2.16.1.rc4 pao-pixel-x3 pid 0x43e 1086
+Expires: Wed, 02 Mar 2016 07:20:11 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 02 Mar 2016 07:20:11 GMT
+Connection: keep-alive
+Set-Cookie: HRL8=3IQw7MxoqmiKkkEIRo6RhzgrhnqHe0LvlM7wiwmSdaX60PkvAdiUJog; expires=Wed, 30-Mar-2016 07:20:11 GMT; path=/; domain=.mathtag.com
+Set-Cookie: mt_mop=9:1456903210|4:1456298427|5:1456903211; domain=.mathtag.com; path=/; expires=Fri, 01-Apr-2016 07:20:11 GMT
+P3P: CP="NON DSP ADM DEV PSD OUR IND STP PHY PRE NAV UNI"
+

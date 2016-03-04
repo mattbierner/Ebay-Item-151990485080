@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://ak1s.abmr.net/is/pixel.mathtag.com?U=/event/img&V=3-PknTmUsbmGG1C4CDPK04Ed3y0k9sK+CFkfJUta9epZDuSTQiFtaQ1A%3d%3d&I=C2B60A291F9C3ED&D=mathtag.com&01AD=1&mt_id=711981&mt_adid=138196&v1=&v2=&v3=&s1=&s2=&s3=
+Expires: Wed, 02 Mar 2016 07:20:08 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 02 Mar 2016 07:20:08 GMT
+Connection: keep-alive
+Set-Cookie: HRL8=CT-2; expires=Wed, 09-Mar-2016 07:20:08 GMT; path=/; domain=.mathtag.com
+P3P: CP="NON DSP ADM DEV PSD OUR IND STP PHY PRE NAV UNI"
+

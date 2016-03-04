@@ -1,0 +1,9 @@
+GET http://srx.main.ebayrtm.com/rtm?RtmCmd&a=json&g=3632aee81530abd8cf656499ffeb3484&uf=0&c=1H4sIAAAAAAAAAEWQQUvEMBCF7%2F0VAW%2FCyiSZZpLCXPbixS4FF0TwUtruGoWmtl38%2B05a1EuGl3wzb17uXoZe1e2swCiAykAFqB7r8wGoAlAGtCsmC56xmBANQzHpgGwcFROwJm3QyhV5Pqb0ubzdAECf0niJ3RrTuOsMlL9wF3vWZn%2FQ8AcgshSrKRcjhuJkrOPj3I69Og3fIh1t%2FtsWxrlNaIaHEDKLfMitQZwggC8DYZlHATdzHFfJ2bTXQT2n29wNKl3U%2BT0u6ikuaxyvks6abK29ZQNIjqTZeuL6i9JH83ovo3IIIaz%2FDx4C61JOQF%2BCl4XcjtD2RT9gOS5sXgEAAA%3D%3D&ord=1456903204810&p=910:699:825:827:829:280:283:20047:20371:20372:20373:876:912:433:1650:1651&e=USC:1&z=20&bw=1440&bh=870&enc=UTF-8&v=5&rnc=1&cg=3632b3201530a602e8217f61fefbe1ec&_vrdm=1456903205887&cb=parent.window.raptor.rtm.RtmManager.storeResponse HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: srx.main.ebayrtm.com
+Connection: Keep-Alive
+

@@ -1,0 +1,12 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: image/gif
+Content-Length: 0
+Cache-Control: no-cache
+Location: https://pixel.rubiconproject.com/tap.php?v=4222&nid=1512&put=bacc56d6-9426-4700-a26a-355ee32fef83&expires=28
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Server: mt2/version: 2.16.1.rc4 pao-pixel-x3 pid 0x43e 1086
+Expires: Wed, 02 Mar 2016 07:20:09 GMT
+Date: Wed, 02 Mar 2016 07:20:10 GMT
+Connection: keep-alive
+Set-Cookie: mt_mop=9:1456903210|4:1456298427; domain=.mathtag.com; path=/; expires=Fri, 01-Apr-2016 07:20:10 GMT
+

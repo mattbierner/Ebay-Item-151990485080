@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+RlogId: p4pphdlwc%3D9fnc2g65%60%28c303-1533632b3fc-0x169
+Cache-Control: no-cache
+Expires: 0
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: PS=T.0; Domain=main.ebayrtm.com; Expires=Thu, 02-Mar-2017 07:20:05 GMT; Path=/rtm
+Location: http://srx.main.ebayrtm.com/rtm?RtmCmd&a=json&g=3632aee81530abd8cf656499ffeb3484&uf=0&c=1H4sIAAAAAAAAAEWQQUvEMBCF7%2F0VAW%2FCyiSZZpLCXPbixS4FF0TwUtruGoWmtl38%2B05a1EuGl3wzb17uXoZe1e2swCiAykAFqB7r8wGoAlAGtCsmC56xmBANQzHpgGwcFROwJm3QyhV5Pqb0ubzdAECf0niJ3RrTuOsMlL9wF3vWZn%2FQ8AcgshSrKRcjhuJkrOPj3I69Og3fIh1t%2FtsWxrlNaIaHEDKLfMitQZwggC8DYZlHATdzHFfJ2bTXQT2n29wNKl3U%2BT0u6ikuaxyvks6abK29ZQNIjqTZeuL6i9JH83ovo3IIIaz%2FDx4C61JOQF%2BCl4XcjtD2RT9gOS5sXgEAAA%3D%3D&ord=1456903204810&p=910:699:825:827:829:280:283:20047:20371:20372:20373:876:912:433:1650:1651&e=USC:1&z=20&bw=1440&bh=870&enc=UTF-8&v=5&rnc=1&cg=3632b3201530a602e8217f61fefbe1ec&_vrdm=1456903205887&cb=parent.window.raptor.rtm.RtmManager.storeResponse&r=yes
+Content-Length: 0
+Date: Wed, 02 Mar 2016 07:20:05 GMT
+

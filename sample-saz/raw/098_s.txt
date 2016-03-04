@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:08.401
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Rc4 128bits
+Hash Algorithm: Sha1 160bits
+Key Exchange: RsaKeyX 2048bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.turn.com, OU=Domain Control Validated
+
+[Issuer]
+  CN=Starfield Secure Certificate Authority - G2, OU=http://certs.starfieldtech.com/repository/, O="Starfield Technologies, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  2B98B14FEA283E
+
+[Not Before]
+  4/9/2014 10:20:03 PM
+
+[Not After]
+  12/25/2016 9:23:22 AM
+
+[Thumbprint]
+  433294B9DFB3C49A822F90A571C77E4865590F8E
+
+[SubjectAltNames]
+*.turn.com, turn.com

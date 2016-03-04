@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:09.167
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls
+Cipher: Aes256 256bits
+Hash Algorithm: Sha1 160bits
+Key Exchange: RsaKeyX 2048bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.jetlore.com, OU=Engineering, O="Jetlore, Inc.", L=Sunnyvale, S=California, C=US
+
+[Issuer]
+  CN=DigiCert SHA2 Secure Server CA, O=DigiCert Inc, C=US
+
+[Serial Number]
+  0A6693A142F123554137A88D74293ED4
+
+[Not Before]
+  6/14/2015 5:00:00 PM
+
+[Not After]
+  7/7/2017 5:00:00 AM
+
+[Thumbprint]
+  DC8ACA661BBE770E4F33C9FB4A4F1CCDA991F4FE
+
+[SubjectAltNames]
+*.jetlore.com, jetlore.com

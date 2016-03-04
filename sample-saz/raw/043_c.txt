@@ -1,0 +1,9 @@
+GET http://ir.ebaystatic.com/rs/v/tmk0zpfgga1inbx4vqkvq3itr2w.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://vi.vipr.ebaydesc.com/ws/eBayISAPI.dll?ViewItemDescV4&item=151990485080&t=0&tid=10&category=171243&seller=mjbierner&excSoj=1&excTrk=1&lsite=0&ittenable=false&domain=ebay.com&descgauge=1
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: ir.ebaystatic.com
+Connection: Keep-Alive
+

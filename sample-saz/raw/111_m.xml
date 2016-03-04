@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="111" BitFlags="2100">
+  <SessionTimers ClientConnected="2016-03-01T23:20:08.5021295-08:00" ClientBeginRequest="2016-03-01T23:20:08.5021295-08:00" GotRequestHeaders="2016-03-01T23:20:08.5021295-08:00" ClientDoneRequest="2016-03-01T23:20:08.5021295-08:00" GatewayTime="0" DNSTime="32" TCPConnectTime="46" HTTPSHandshakeTime="85" ServerConnected="2016-03-01T23:20:08.5867698-08:00" FiddlerBeginRequest="2016-03-01T23:20:08.5867698-08:00" ServerGotRequest="2016-03-01T23:20:08.5867698-08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2016-03-01T23:20:08.5867698-08:00" ClientDoneResponse="2016-03-01T23:20:08.5867698-08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-snihostname" V="api.jetlore.com" />
+    <SessionFlag N="x-egressport" V="32824" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="32823" />
+    <SessionFlag N="https-server-version" V="Tls" />
+    <SessionFlag N="x-clientip" V="127.0.0.1" />
+    <SessionFlag N="https-client-sessionid" V="empty" />
+    <SessionFlag N="x-hostip" V="50.18.185.110" />
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-processinfo" V="iexplore:9652" />
+    <SessionFlag N="https-server-cipher" V="Aes256 256bits" />
+  </SessionFlags>
+</Session>

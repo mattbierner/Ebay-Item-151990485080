@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:07.393
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha1 160bits
+Key Exchange: RsaKeyX 2048bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.bluekai.com, O=BlueKai Inc., L=Cupertino, S=California, C=US
+
+[Issuer]
+  CN=DigiCert SHA2 Secure Server CA, O=DigiCert Inc, C=US
+
+[Serial Number]
+  0A9B1A97EC565F0223C4DB740C8FC62C
+
+[Not Before]
+  9/2/2013 5:00:00 PM
+
+[Not After]
+  9/7/2016 5:00:00 AM
+
+[Thumbprint]
+  954C1BBE18547802015A0A568D51E21609A1C3FE
+
+[SubjectAltNames]
+*.bluekai.com, bluekai.com

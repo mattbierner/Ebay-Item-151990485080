@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:10.372
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Rc4 128bits
+Hash Algorithm: Md5 128bits
+Key Exchange: RsaKeyX 2048bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.pubmatic.com, OU=PlatinumSSL Wildcard, OU=PubMatic, O="PubMatic, Inc.", STREET="901 Marshall Street, Ste. 100", L=Redwood, S=CA, PostalCode=94063, C=US
+
+[Issuer]
+  CN=COMODO RSA Organization Validation Secure Server CA, O=COMODO CA Limited, L=Salford, S=Greater Manchester, C=GB
+
+[Serial Number]
+  00A48C6DAEA693CF0BB23265BB47360DA7
+
+[Not Before]
+  4/26/2015 5:00:00 PM
+
+[Not After]
+  4/26/2016 4:59:59 PM
+
+[Thumbprint]
+  E6172BF81EF9B2326044163B5836169A7CFC3943
+
+[SubjectAltNames]
+*.pubmatic.com, pubmatic.com

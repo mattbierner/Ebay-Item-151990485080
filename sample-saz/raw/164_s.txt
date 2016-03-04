@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Set-Cookie: i=dd452651-9838-4035-6e18-5a99fc74c30a|1456903211; Version=1; Expires=Thu, 02-Mar-2017 07:20:11 GMT; Max-Age=31536000; Domain=.openx.net; Path=/
+Server: OXGW/11.11.6
+P3P: CP="CUR ADM OUR NOR STA NID"
+Location: https://us-u.openx.net/w/1.0/sd?cc=1&id=536872786&val=bacc56d6-9426-4700-a26a-355ee32fef83
+Date: Wed, 02 Mar 2016 07:20:11 GMT
+Content-Length: 0
+

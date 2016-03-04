@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: policyref="http://cdn.adnxs.com/w3c/policy/p3p.xml", CP="NOI DSP COR ADM PSAo PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE"
+X-XSS-Protection: 0
+Location: https://secure.adnxs.com/bounce?%2Fgetuidnb%3Fhttps%3A%252F%252Fads.ebay.com%252Fmapid%253Fid%253DC%257C220%257C%2524UID
+Content-Type: text/html; charset=utf-8
+Set-Cookie: sess=1; Path=/; Max-Age=86400; Expires=Thu, 03-Mar-2016 07:20:10 GMT; Domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=7961272999080634216; Path=/; Max-Age=7776000; Expires=Tue, 31-May-2016 07:20:10 GMT; Domain=.adnxs.com; HttpOnly
+Date: Wed, 02 Mar 2016 07:20:10 GMT
+Content-Length: 0
+

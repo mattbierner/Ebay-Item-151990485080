@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:10.675
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes128 128bits
+Hash Algorithm: Sha256 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.facebook.com, O="Facebook, Inc.", L=Menlo Park, S=CA, C=US
+
+[Issuer]
+  CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+
+[Serial Number]
+  0ECB0939B2B10154B89570C7B22B7A47
+
+[Not Before]
+  8/27/2014 5:00:00 PM
+
+[Not After]
+  12/30/2016 4:00:00 AM
+
+[Thumbprint]
+  A04EAFB348C26B15A8C1AA87A333CAA3CDEEC9C9
+
+[SubjectAltNames]
+*.facebook.com, *.facebook.net, *.fb.com, *.fbcdn.net, *.fbsbx.com, *.m.facebook.com, *.messenger.com, *.xx.fbcdn.net, *.xy.fbcdn.net, *.xz.fbcdn.net, facebook.com, fb.com, messenger.com

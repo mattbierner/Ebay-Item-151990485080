@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:09.248
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.abmr.net, OU=Insight, O=Akamai Technologies Inc., L=Cambridge, S=MA, C=US
+
+[Issuer]
+  CN=Verizon Akamai SureServer CA G14-SHA2, OU=Cybertrust, O=Verizon Enterprise Solutions, L=Amsterdam, C=NL
+
+[Serial Number]
+  0952EC7CAFFDD58BB6E4974754289B0700CCC1E6
+
+[Not Before]
+  2/2/2016 6:29:05 AM
+
+[Not After]
+  2/2/2017 6:29:01 AM
+
+[Thumbprint]
+  4F4890FC4F7D26C1F34EB8489F035DBFDA4A1F3C
+
+[SubjectAltNames]
+*.abmr.net

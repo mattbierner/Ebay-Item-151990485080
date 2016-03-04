@@ -1,0 +1,9 @@
+GET http://ad.doubleclick.net/N6245/adi/ebay.ebayus.vip/BTF;tcat=267;items=;ice=;ccode=;sz=728x90;u=i_3702850941518018253%7Cm_364534;;cat=171243;cat=267;seg=AdvGL_Vtr;dcopt=ist;tile=1;ot=1;um=0;us=13;eb_trk=364534;pr=20;xp=20;np=20;uz=Unknown;fbi=;sbi=;fbo=;sbo=;fse=;sse=;fvi=;svi=;kw=printed,page,source,of,this,listing;lkw=;cg=3632b3201530a602e8217f61fefbe1ec;ord=1456903206145; HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: ad.doubleclick.net
+Connection: Keep-Alive
+

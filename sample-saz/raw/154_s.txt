@@ -1,0 +1,11 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: https://pixel.mathtag.com/event/img?01AD=3IQw7MxoqmiKkkEIRo6RhzgrhnqHe0LvlM7wiwmSdaX60PkvAdiUJog&01RI=C2B60A291F9C3ED&01NA=&mt_id=711981&mt_adid=138196&v1=&v2=&v3=&s1=&s2=&s3=
+Expires: Wed, 02 Mar 2016 07:20:10 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 02 Mar 2016 07:20:10 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-EAF80169F0795447098D0F7E111ED4535B66770335C6B3271CEE3845407CC345-3EBA1E29201DAEFB9362337ADC2AEA56EAE7DDDAFBCB324C45E8A821C0429489; expires=Thu, 02-Mar-2017 07:20:10 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

@@ -1,0 +1,10 @@
+GET https://ads.ebay.com/roverext/13/0/18?pixelID=14&eid=283&cat=171243&item_id=151990485080&item_title=Printed%2BPage%2BSource%2Bof%2BThis%2BListing&item_price=0.0&product_id=&kw= HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: https://stags.bluekai.com/site/17001?dt=0&r=124303304&sig=2503190227&bkca=KJ0NAL+rQp9xHqIsq/Q3tTHcvgaJLt0gumZI9M/ZGTO+tj1Ioc8XzV/U43e0C7rsZqZILQV3ppxm3yaconoS+VH3FMJ7Paxe7oJLnbGLSmGSZQ9Fr5CWN3vSWc+QxKm+CI5XrtVqvZ5PnBYlQS70Qx8JtyeBfKXQH3esf0FvtsnzUmlLrOOrVKZ7fbp/HJLJhFm1BxDED9kK0GJnAYNybv/29MdZRYzOodEx2J9K25PtAs3jFolHozdGYaD4ftKCXHbE4n4EIr/uXjuISiVh/2x30SmJ0I5LSwM0A4pXdTAonLJGu4gkMIcXDHBo/B5kX3Yb3y1f9pZImICcDnuTNjunZvVjGgrdefRoip/wImVT28rYLGBgdvu8pjAOqTXGEFUsNr+NkmN5dQvDEBMf
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: ads.ebay.com
+Connection: Keep-Alive
+Cookie: ebay=%5Esbf%3D%23140000100000%5E; dp1=bu1p/QEBfX0BAX19AQA**58b7c7a5^bl/US5a98fb25^pbf/#a000e000000100020000005a98fb25^cq/0^idm/156d7e5a5^; s=CgAD4ACBW1+WlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODS7dydT; nonsession=CgAAIABxW/iElMTQ1NjkwMzIwNHgxNTE5OTA0ODUwODB4MHgyTgDLAAFW1pstMQDKACBgPJWlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODTReR/L; npii=bcguid/3632b3201530a602e8217f61fefbe1ec58b7c7a5^tguid/3632aee81530abd8cf656499ffeb348458b7c7a5^
+

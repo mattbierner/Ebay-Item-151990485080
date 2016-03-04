@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:07.376
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=secureir.ebaystatic.com, OU=Site Operations, O=eBay Inc., L=San Jose, S=AL, C=US
+
+[Issuer]
+  CN=Verizon Akamai SureServer CA G14-SHA2, OU=Cybertrust, O=Verizon Enterprise Solutions, L=Amsterdam, C=NL
+
+[Serial Number]
+  2DEABBFF5AF6DCF741415F12271956B44FEADA0B
+
+[Not Before]
+  10/23/2015 2:20:36 AM
+
+[Not After]
+  10/23/2016 2:20:34 AM
+
+[Thumbprint]
+  27B0E224121E3E1A7F69DE11F3EB129E971274B3
+
+[SubjectAltNames]
+secureir.ebaystatic.com

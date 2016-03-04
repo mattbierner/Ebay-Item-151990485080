@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:07.352
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=*.shoppingshadow.com, OU=PositiveSSL Wildcard, OU=Domain Control Validated
+
+[Issuer]
+  CN=COMODO RSA Domain Validation Secure Server CA, O=COMODO CA Limited, L=Salford, S=Greater Manchester, C=GB
+
+[Serial Number]
+  2698D5D8DE3866C2EC7BFDA91B871DFD
+
+[Not Before]
+  8/4/2015 5:00:00 PM
+
+[Not After]
+  8/4/2018 4:59:59 PM
+
+[Thumbprint]
+  304CE6D4BB85A8150F6F70046BC9E1EE2A5FB80A
+
+[SubjectAltNames]
+*.shoppingshadow.com, shoppingshadow.com

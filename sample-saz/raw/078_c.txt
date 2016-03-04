@@ -1,0 +1,10 @@
+GET http://pixel.mathtag.com/event/img?01AD=37dUeU6d8N16Dzf4Z4wSH7ky5f9F3-48NmdD2fZQ5Cj2f5287R0fPHg&01RI=D1339986954EFB8&01NA=na&mt_id=163108&mt_adid=107128&v1=&v2=&v3=&s1=&s2=&s3=&mm_bnc&mm_bct HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Host: pixel.mathtag.com
+Cookie: HRL8=CT-1; uuid=bacc56d6-9426-4700-a26a-355ee32fef83; uuidc=txZyeb/xwXzM4zIgTF4ZmgInMJ99/bNdenoUij8lz0yF4h9cE9Z3fKleEX7nanqQuzkEfj60MUpxyilWL5vOjA==
+

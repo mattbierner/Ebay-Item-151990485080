@@ -1,0 +1,12 @@
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+version: v1.1.0
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME

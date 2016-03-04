@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+Server: Apache-Coyote/1.1
+P3P: policyref="/w3c/p3p.xml", CP="NOI CURa DEVa TAIa PSAa PSDa IVAa IVDa OUR IND UNI NAV"
+Cache-Control: max-age=0, no-cache, no-store, private, must-revalidate, s-maxage=0
+Pragma: no-cache
+Set-Cookie: uid=3860176432216379007; Domain=.turn.com; Expires=Mon, 29-Aug-2016 07:20:09 GMT; Path=/
+Location: https://ads.ebay.com/mapid?id=C|61|3860176432216379007&pid=2047675
+Content-Length: 0
+Date: Wed, 02 Mar 2016 07:20:09 GMT
+

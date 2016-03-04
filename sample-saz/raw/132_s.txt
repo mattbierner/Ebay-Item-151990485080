@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Date: Wed, 02 Mar 2016 07:20:09 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.1e-fips mod_fastcgi/2.4.6
+Set-Cookie: KTPCACOOKIE=true; domain=pubmatic.com; expires=Tue, 31-May-2016 07:20:09 GMT; path=/
+Location: https://image2.pubmatic.com/AdServer/UCookieSetPug?ird=1&rd=https%3A%2F%2Fads.ebay.com%2Fmapid%3Fid%3DC%7C29%7C%23PM_USER_ID
+Content-Length: 448
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://image2.pubmatic.com/AdServer/UCookieSetPug?ird=1&amp;rd=https%3A%2F%2Fads.ebay.com%2Fmapid%3Fid%3DC%7C29%7C%23PM_USER_ID">here</a>.</p>
+<hr>
+<address>Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.1e-fips mod_fastcgi/2.4.6 Server at image2.pubmatic.com Port 80</address>
+</body></html>

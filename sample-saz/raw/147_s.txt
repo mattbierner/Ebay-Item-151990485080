@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+Server: spray-can/1.3.3
+Date: Wed, 02 Mar 2016 07:20:10 GMT
+Location: https://www.facebook.com/tr?id=775033202546050&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=151990485080&ev=ViewContent&cd%5Ba%5D=171243&cd%5Bb%5D=1&cd%5Bc%5D=267&cd%5Bd%5D=na&cd%5Be%5D=na&cd%5Bf%5D=na&cd%5Bg%5D=na&cd%5Bs%5D=0&cd%5Bx%5D=1&cd%5Bexternal_id%5D=3632b3201530a602e8217f61fefbe1ec&cd%5Bapplication_id%5D=311660802357656
+Content-Type: text/html
+Content-Length: 407
+
+The requested resource temporarily resides under <a href="https://www.facebook.com/tr?id=775033202546050&cd%5Bcontent_type%5D=product&cd%5Bcontent_ids%5D=151990485080&ev=ViewContent&cd%5Ba%5D=171243&cd%5Bb%5D=1&cd%5Bc%5D=267&cd%5Bd%5D=na&cd%5Be%5D=na&cd%5Bf%5D=na&cd%5Bg%5D=na&cd%5Bs%5D=0&cd%5Bx%5D=1&cd%5Bexternal_id%5D=3632b3201530a602e8217f61fefbe1ec&cd%5Bapplication_id%5D=311660802357656">this URI</a>.

@@ -1,0 +1,10 @@
+GET https://pixel.mathtag.com/event/img?mt_id=786210&mt_adid=138196&v1=&v2=2047675&v3=171243&s1=&s2=&s3= HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: https://stags.bluekai.com/site/17001?dt=0&r=124303304&sig=2503190227&bkca=KJ0NAL+rQp9xHqIsq/Q3tTHcvgaJLt0gumZI9M/ZGTO+tj1Ioc8XzV/U43e0C7rsZqZILQV3ppxm3yaconoS+VH3FMJ7Paxe7oJLnbGLSmGSZQ9Fr5CWN3vSWc+QxKm+CI5XrtVqvZ5PnBYlQS70Qx8JtyeBfKXQH3esf0FvtsnzUmlLrOOrVKZ7fbp/HJLJhFm1BxDED9kK0GJnAYNybv/29MdZRYzOodEx2J9K25PtAs3jFolHozdGYaD4ftKCXHbE4n4EIr/uXjuISiVh/2x30SmJ0I5LSwM0A4pXdTAonLJGu4gkMIcXDHBo/B5kX3Yb3y1f9pZImICcDnuTNjunZvVjGgrdefRoip/wImVT28rYLGBgdvu8pjAOqTXGEFUsNr+NkmN5dQvDEBMf
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: pixel.mathtag.com
+Connection: Keep-Alive
+Cookie: HRL8=CT-USR; uuid=bacc56d6-9426-4700-a26a-355ee32fef83; uuidc=txZyeb/xwXzM4zIgTF4ZmgInMJ99/bNdenoUij8lz0yF4h9cE9Z3fKleEX7nanqQuzkEfj60MUpxyilWL5vOjA==; mt_mop=4:1456298427
+

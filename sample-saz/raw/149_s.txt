@@ -1,0 +1,11 @@
+HTTP/1.1 204 No Content
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 0
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Server: Microsoft-IIS/8.5
+Access-Control-Allow-Origin: *
+Set-Cookie: MUID=06D784567E7E66E608D88C9A7A7E6410; domain=.msn.com; expires=Fri, 02-Mar-2018 07:20:10 GMT; path=/;
+Set-Cookie: MR=0; domain=bat.r.msn.com; expires=Mon, 29-Aug-2016 07:20:10 GMT; path=/;
+Date: Wed, 02 Mar 2016 07:20:09 GMT
+

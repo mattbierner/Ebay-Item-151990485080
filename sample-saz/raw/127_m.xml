@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="127" BitFlags="2100">
+  <SessionTimers ClientConnected="2016-03-01T23:20:09.162051-08:00" ClientBeginRequest="2016-03-01T23:20:09.1625515-08:00" GotRequestHeaders="2016-03-01T23:20:09.1625515-08:00" ClientDoneRequest="2016-03-01T23:20:09.1630519-08:00" GatewayTime="0" DNSTime="0" TCPConnectTime="125" HTTPSHandshakeTime="233" ServerConnected="2016-03-01T23:20:09.2879629-08:00" FiddlerBeginRequest="2016-03-01T23:20:09.2879629-08:00" ServerGotRequest="2016-03-01T23:20:09.2879629-08:00" ServerBeginResponse="0001-01-01T00:00:00" GotResponseHeaders="0001-01-01T00:00:00" ServerDoneResponse="0001-01-01T00:00:00" ClientBeginResponse="2016-03-01T23:20:09.2879629-08:00" ClientDoneResponse="2016-03-01T23:20:09.2884637-08:00" />
+  <PipeInfo />
+  <TunnelInfo BytesEgress="0" BytesIngress="0" />
+  <SessionFlags>
+    <SessionFlag N="https-client-snihostname" V="ads.ebay.com" />
+    <SessionFlag N="x-egressport" V="32840" />
+    <SessionFlag N="x-responsebodytransferlength" V="0" />
+    <SessionFlag N="x-clientport" V="32839" />
+    <SessionFlag N="https-server-version" V="Tls12" />
+    <SessionFlag N="x-clientip" V="127.0.0.1" />
+    <SessionFlag N="https-client-sessionid" V="empty" />
+    <SessionFlag N="x-hostip" V="66.135.216.134" />
+    <SessionFlag N="https-client-version" V="Tls12" />
+    <SessionFlag N="x-processinfo" V="iexplore:9652" />
+    <SessionFlag N="https-server-cipher" V="TripleDes 168bits" />
+  </SessionFlags>
+</Session>

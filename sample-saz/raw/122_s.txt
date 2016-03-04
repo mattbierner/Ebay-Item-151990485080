@@ -1,0 +1,33 @@
+HTTP/1.0 200 Connection Established
+FiddlerGateway: Direct
+StartTime: 23:20:09.147
+Connection: close
+
+Encrypted HTTPS traffic flows through this CONNECT tunnel. HTTPS Decryption is enabled in Fiddler, so decrypted sessions running in this tunnel will be shown in the Web Sessions list.
+
+Secure Protocol: Tls12
+Cipher: Aes256 256bits
+Hash Algorithm: Sha384 ?bits
+Key Exchange: ECDHE_RSA (0xae06) 256bits
+
+== Server Certificate ==========
+[Subject]
+  CN=pixel.mathtag.com, OU=Operations, O=MediaMath Inc., L=New York, S=NY, C=US
+
+[Issuer]
+  CN=Verizon Akamai SureServer CA G14-SHA2, OU=Cybertrust, O=Verizon Enterprise Solutions, L=Amsterdam, C=NL
+
+[Serial Number]
+  1EF4B27228338D6E9B96FB1820C04CFCBF00D31C
+
+[Not Before]
+  2/9/2016 1:44:14 AM
+
+[Not After]
+  2/9/2017 1:44:09 AM
+
+[Thumbprint]
+  D10D405619E856CEA39C5BB7E1FB0C17860BA94B
+
+[SubjectAltNames]
+pixel.mathtag.com

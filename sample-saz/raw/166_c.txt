@@ -1,0 +1,11 @@
+GET http://www.ebay.com/rec/plmt/100013-100035-100036-100037?guid=3632aee81530abd8cf656499ffeb3484&itm=151990485080&bWidth=1015&fmt=html&locale=en-US&usrSt=4&srchCtxt=%28dmLCat%3D-1%7CsrCnt%3D0%7CmCCatId%3D0%7CminPrice%3D-1.0%7CmaxPrice%3D-1.0%7CcrncyId%3D840%7CfShip%3D0%7Cetrs%3D0%29&usrSi=US&slr=1090859745&ctg=171243&si=0&_qi=t6ulcpjqcj9%3Fuk%60sobtlrbn%28774%3D11&srcUrl=http%3A%2F%2Fwww.ebay.com%2Fitm%2FPrinted-Page-Source-of-This-Listing-%2F151990485080%3Fnma%3Dtrue%26si%3D%25252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%25253D%26orig_cvip%3Dtrue%26rt%3Dnc%26_trksid%3Dp2047675.l2557&callback=jQuery1707996704436065374_1456903205741&_=1456903220504 HTTP/1.1
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Host: www.ebay.com
+Connection: Keep-Alive
+Cookie: JSESSIONID=EB27D7DCBAEF0BA68F981F68ECF955D7; ebay=%5Esbf%3D%23140000100000%5Ejs%3D1%5E; dp1=bu1p/QEBfX0BAX19AQA**58b7c7a5^bl/US5a98fb25^pbf/#a000e000000100020000005a98fb25^cq/0^idm/156d7e5a5^; s=CgAD4ACBW1+WlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODS7dydT; nonsession=CgAAIABxW/iElMTQ1NjkwMzIwNHgxNTE5OTA0ODUwODB4MHgyTgDLAAFW1pstMQDKACBgPJWlMzYzMmFlZTgxNTMwYWJkOGNmNjU2NDk5ZmZlYjM0ODTReR/L; npii=bcguid/3632b3201530a602e8217f61fefbe1ec58b7c7aa^tguid/3632aee81530abd8cf656499ffeb348458b7c7aa^
+

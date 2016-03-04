@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Date: Wed, 02 Mar 2016 07:20:08 GMT
+Server: Apache/2.2.24 (Unix)
+X-XSS-Protection: 0
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Set-Cookie: bku=SD/99YKDNkqlb7zF; expires=Mon, 29-Aug-2016 07:20:08 GMT; path=/; domain=.bluekai.com
+BK-Time-Debug: 1456903208: 0.148218 400035040082
+BK-Server: 215b
+Content-Length: 3947
+Content-Type: text/html
+
+<html><head><script type="text/javascript">function bk_clear(id){try{document.getElementById(id).innerHTML=''}catch(e){}} setTimeout("bk_clear('bk_pl_1')",2000); setTimeout("bk_clear('bk_pl_1237')",2001); setTimeout("bk_clear('bk_pl_1326')",2002); setTimeout("bk_clear('bk_pl_1855')",3000); setTimeout("bk_clear('bk_pl_2178')",2003); setTimeout("bk_clear('bk_pl_3200')",2004); setTimeout("bk_clear('bk_pl_3307')",2005); setTimeout("bk_clear('bk_pl_3801')",2006); setTimeout("bk_clear('bk_pl_3817')",2007);</script></head><body><div id="bk_exchange">
+
+</div>
+<div id="bk_pl_1326"><img src="https://d.turn.com/r/dd/id/L21rdC85NS9jaWQvMjg0NDc3MjUvdC8y/url/https://ads.ebay.com/mapid?id=C|61|$!{TURN_UUID}&pid=2047675" width="1" height="1" />
+<img src="https://cm.g.doubleclick.net/pixel?google_nid=ebay_dmp&g_cver=1&google_cm" />
+<img height='1' width='1' src='https://pixel.mathtag.com/sync/img?sync=auto&redir=%2F%2Fads.ebay.com%2Fmapid%3Fid%3DC%7C216%7C%5BMM_UUID%5D' />
+
+<img height='1' width='1' src='https://ib.adnxs.com/getuidnb?https:%2F%2Fads.ebay.com%2Fmapid%3Fid%3DC%7C220%7C%24UID' />
+<img src= "https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fads.ebay.com%2Fmapid%3Fid%3DC%7C29%7C%23PM_USER_ID" />
+
+</div><div id="bk_pl_1855"><img height="1" width="1" style="border-style:none;" alt="" src="https://psoc.ebayc3.com/bk?ev=1&tcat=171243&iid=151990485080&cg=3632b3201530a602e8217f61fefbe1ec&meta=267&crm=&ls=&ldt=&btp=1%7C0%3A0%3A0&fm=&s=0" />
+<img src="https://pixel.quantserve.com/pixel/p-uE6N88uXG2_sp.gif?labels=_fp.event.Product+View,_fp.customer.,_fp.pcat.171243" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="https://ad.doubleclick.net/activity;src=4656348;type=invmedia;cat=ou23amwy;ord=1?" width="1" height="1" alt=""/>
+<img src='//pixel.mathtag.com/event/img?mt_id=711981&mt_adid=138196&v1=&v2=&v3=&s1=&s2=&s3=' width='1' height='1' />
+
+</div><div id="bk_pl_2178"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056151503/?value=1.00&amp;currency_code=USD&amp;label=WIOZCPer51gQz6_O9wM&amp;guid=ON&amp;script=0&amp;data=btc%3D%3Blis%3D%3Brlsa_seg%3d%3BMSD%3D0"/>
+<img src="//bat.bing.com/action/0?ti=5014436&Ver=2&ec=,ea=,el=,ev=0" height="0" width="0" style="display:none; visibility: hidden;" />
+</div><div id="bk_pl_3200"><img src="https://api.jetlore.com/track/ebay_bluekai.png?access_token=929520b3d35b94331550bcf51ca78017cfb28d0476731e8ad33804548f22e3b4&id=&lp=%2C%2C%2C&lb=%2C%2C%2C&div="> 
+
+</div><div id="bk_pl_3307"><img src="https://api.jetlore.com/track.png?access_token=929520b3d35b94331550bcf51ca78017cfb28d0476731e8ad33804548f22e3b4&action=click&id=&data=%5B%7B%22pid%22%3A%22151990485080%22%2C%22price%22%3A%220.0%22%2C%22category1%22%3A%22267%22%2C%22category2%22%3A%22171243%22%2C%22title%22%3A%22Printed%2BPage%2BSource%2Bof%2BThis%2BListing%22%2C%22category_path%22%3A%22%5BBooks%2C%2BNonfiction%5D%22%7D%5D&div=">
+
+
+
+</div><div id="bk_pl_3801"> <img src='https://pixel.mathtag.com/event/img?mt_id=786210&mt_adid=138196&v1=&v2=2047675&v3=171243&s1=&s2=&s3=' width='1' height='1' />
+</div><div id="bk_pl_3817"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005566788/?value=0&amp;guid=ON&amp;data=ecomm_pagetype%3Dhome%3Bfm_segment%3D%3BcategoryID%3D267%3Btcat%3D171243%3BPid%3D2047675%3Btemp%3Dnew&amp;script=0"/>
+</div><div id="bk_pl_1"><img src='//pixel.mathtag.com/sync/img?mt_exid=10024&mt_exuid=3632b3201530a602e8217f61fefbe1ec' />
+<img src="https://sp.analytics.yahoo.com/spp.pl?a=10001629380185&.yp=20676&js=no&fm=&pid=2047675"/>
+</div><div id="bk_pl_1237"><img src="https://ads.ebay.com/roverext/13/0/18?pixelID=14&eid=283&cat=171243&item_id=151990485080&item_title=Printed%2BPage%2BSource%2Bof%2BThis%2BListing&item_price=0.0&product_id=&kw=" width="1" height="1" />
+
+</div></body></html>

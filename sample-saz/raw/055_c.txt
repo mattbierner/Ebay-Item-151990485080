@@ -1,0 +1,9 @@
+GET http://ak1.abmr.net/is/pixel.mathtag.com?U=/event/img&V=3-sgqmhzKtOsEVE0ECighhvcLLwlAfGAMiMuKmNx0Ug8i45byWNJmgZA%3d%3d&I=D1339986954EFB8&D=mathtag.com&01AD=1&mt_id=163108&mt_adid=107128&v1=&v2=&v3=&s1=&s2=&s3=&mm_bnc&mm_bct HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Host: ak1.abmr.net
+

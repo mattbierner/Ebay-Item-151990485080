@@ -1,0 +1,9 @@
+GET https://stags.bluekai.com/site/17001?ret=html&limit=8&btp=1&phint=eid%3D283&phint=tcat%3D171243&phint=bin%3D0.0&phint=iid%3D151990485080&phint=type%3Dvisitor&phint=pid%3D&phint=meta%3D267&phint=tps%3D&phint=crm%3D&phint=css%3D&phint=cg%3D3632b3201530a602e8217f61fefbe1ec&phint=item%3DPrinted+Page+Source+of+This+Listing&phint=bread%3D%5BBooks%2C+Nonfiction%5D&phint=kw%3D&phint=lx%3D0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|&phint=ps%3D&phint=btf%3D0:0:0:0:0&phint=btp%3D0:0:0&phint=uid%3D&phint=encuser%3D&phint=fm_segment%3D&phint=list2%3D&phint=pageid%3D2047675&phint=MSD%3D0&phint=rlsa_seg%3D&phint=split%3D1&phint=lp%3D,,,&phint=lb%3D,,, HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: stags.bluekai.com
+Connection: Keep-Alive
+

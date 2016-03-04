@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+
+body {
+    max-width: 800px;
+    margin: 3em auto 6em;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    text-align: initial;
+    page: main;
+    counter-reset: page 1;
+}
+
+body pre {
+    background: none !important;
+    width: 100%;
+}
+
+
+.page {
+     page-break-before: always;
+}
+
+#title-page {
+    padding-top: 6em;
+}
+
+h1.section-title {
+    text-transform: none;
+    margin-bottom: 1em;
+    font-size: 24px;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    text-align: center;
+}
+
+h1.section-title::before {
+    content: "";
+    margin-right: 0;
+}
+
+
+h2.subsection-title {
+    font-style: normal;
+    font-weight: bold;
+}
+
+h2.subsection-title::before {
+    content: "";
+    margin-right: 0;
+}
+
+pre,
+code,
+code[class*="language-"],
+pre[class*="language-"] {
+    font-size: 11px;
+    line-height: 11px;
+    width: 100%;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+#title-page {
+    text-transform: none;
+    text-align: center;
+    font-size: 24px;
+}
+
+#title-page > * {
+    margin: 48px 0;
+}
+
+#title-page h1::before,
+#title-page h2::before {
+    content: "";
+    margin-right: 0;
+}
+
+#title-page h1 {
+    font-size: 48px;
+
+}
+
+#title-page h2 {
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+#title-page > p {
+    font-family: 'Tangerine', cursive;
+    margin: 0 0;
+}
+
+@page main {
+    @bottom {
+        content: counter(page)
+    }
+}
+
+@media print {
+    * {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}

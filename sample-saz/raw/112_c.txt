@@ -1,0 +1,56 @@
+CONNECT sp.analytics.yahoo.com:443 HTTP/1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Content-Length: 0
+Host: sp.analytics.yahoo.com
+Connection: Keep-Alive
+Pragma: no-cache
+
+A SSLv3-compatible ClientHello handshake was found. Fiddler extracted the parameters below.
+
+Version: 3.3 (TLS/1.2)
+Random: 56 D6 94 28 0F D3 66 DF 5A E2 AA 3F 45 1E 03 E3 D8 AE 37 35 36 C0 7B 68 82 57 9D ED 6C 2C 3E F2
+"Time": 7/29/1991 8:00:38 PM
+SessionID: empty
+Extensions: 
+	server_name	sp.analytics.yahoo.com
+	status_request	OCSP - Implicit Responder
+	elliptic_curves	secp256r1 [0x17], secp384r1 [0x18]
+	ec_point_formats	uncompressed [0x0]
+	signature_algs	sha256_rsa, sha384_rsa, sha1_rsa, sha256_ecdsa, sha384_ecdsa, sha1_ecdsa, sha1_dsa, sha512_rsa, sha512_ecdsa
+	SessionTicket	empty
+	ALPN		h2, http/1.1
+	extended_master_secret	empty
+	0x5500		00 01 00 02 00 02
+	renegotiation_info	00
+Ciphers: 
+	[C02C]	TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+	[C02B]	TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+	[C030]	TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	[C02F]	TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	[009F]	TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+	[009E]	TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+	[C024]	TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+	[C023]	TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+	[C028]	TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	[C027]	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+	[C00A]	TLS1_CK_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+	[C009]	TLS1_CK_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+	[C014]	TLS1_CK_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	[C013]	TLS1_CK_ECDHE_RSA_WITH_AES_128_CBC_SHA
+	[009D]	TLS_RSA_WITH_AES_256_GCM_SHA384
+	[009C]	TLS_RSA_WITH_AES_128_GCM_SHA256
+	[003D]	TLS_RSA_WITH_AES_256_CBC_SHA256
+	[003C]	TLS_RSA_WITH_AES_128_CBC_SHA256
+	[0035]	TLS_RSA_AES_256_SHA
+	[002F]	TLS_RSA_AES_128_SHA
+	[000A]	SSL_RSA_WITH_3DES_EDE_SHA
+	[006A]	TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
+	[0040]	TLS_DHE_DSS_WITH_AES_128_CBC_SHA256
+	[0038]	TLS_DHE_DSS_WITH_AES_256_SHA
+	[0032]	TLS_DHE_DSS_WITH_AES_128_SHA
+	[0013]	SSL_DHE_DSS_WITH_3DES_EDE_SHA
+
+Compression: 
+	[00]	NO_COMPRESSION
+
+

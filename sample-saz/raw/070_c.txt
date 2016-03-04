@@ -1,0 +1,9 @@
+GET https://secure-di65.shoppingshadow.com/images/di/46/56/33/73454144324276775a756a55336946452d3467-140x140-0-0.jpg?rqt=SRS&a=1&c=1&l=8060551 HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: http://www.ebay.com/itm/Printed-Page-Source-of-This-Listing-/151990485080?nma=true&si=%252F3hHoNLZnsXlp9nyjrkHvxc0Fbo%253D&orig_cvip=true&rt=nc&_trksid=p2047675.l2557
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: secure-di65.shoppingshadow.com
+Connection: Keep-Alive
+
